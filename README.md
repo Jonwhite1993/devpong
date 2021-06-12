@@ -1,2 +1,2 @@
 # devpong
-Made a pong game from a tutorial
+Made a pong game
